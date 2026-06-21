@@ -1,6 +1,7 @@
 # ♟ Chess Game in Flutter
 
-A fully functional chess game built with Flutter and Dart, designed to run in the browser.
+A fully functional chess game built with Flutter and Dart, designed to run in the browser. You can play it here : 
+
 
 ## Features
 
